@@ -1,0 +1,802 @@
+[
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/molecules/project-summary-renderer/renderers.tsx",
+    "componentName": "SingleUser",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/molecules/comments/comment-head.tsx",
+    "componentName": "UserInfoAction",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/timesheets/secondary-bar.tsx",
+    "componentName": "SubmitTimesheetButton",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/molecules/user-message-reply/user-message-reply.tsx",
+    "componentName": "AuthorTime",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/routes/vendor/intro-modal.tsx",
+    "componentName": "IntroVideo",
+    "propName": "firstName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/routes/vendor/intro-modal.tsx",
+    "componentName": "IntroModalContent",
+    "propName": "firstName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/molecules/profile-menu/profile-menu.tsx",
+    "componentName": "UserCard",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/molecules/project-summary-renderer/get-cell-renderer.tsx",
+    "componentName": "SingleUser",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/molecules/project-summary-renderer/get-cell-renderer.tsx",
+    "componentName": "SingleUser",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/left-nav/profile.tsx",
+    "componentName": "ProfileMenu",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/pages/timesheet/secondary-bar.tsx",
+    "componentName": "WithdrawAllButtonWithModal",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/pages/timesheet/secondary-bar.tsx",
+    "componentName": "SubmitTimesheetButton",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/pages/timesheet/secondary-bar.tsx",
+    "componentName": "TimeoffDrawer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/pages/timesheet/single-user-timesheet-approval.tsx",
+    "componentName": "SecondaryBar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/pages/timesheet/single-user-timesheet-approval.tsx",
+    "componentName": "TimesheetApprovalSingleUserView",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portal/components/cp-task-resp-assignee-picker.tsx",
+    "componentName": "CpAssigneePickerUserOption",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/pages/timesheet/my-timesheet.tsx",
+    "componentName": "SecondaryBar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/approvals/approval/approval.tsx",
+    "componentName": "ApprovalComment",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/module-settings/profile/profile.tsx",
+    "componentName": "ChangeProfilePic",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/module-settings/profile/profile.tsx",
+    "componentName": "TimeOffSetting",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/resource-management/auto-allocation-source-tasks/drawer.tsx",
+    "componentName": "UserDetail",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/resource-management/manage-allocation/timeoff-holiday-alert.tsx",
+    "componentName": "WarningForSingleDate",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/resource-management/manage-allocation/timeoff-holiday-alert.tsx",
+    "componentName": "WarningForRange",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/resource-management/manage-allocation/timeoff-holiday-alert.tsx",
+    "componentName": "MultipleWarningRange",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/timesheets/week-view-table/editable-cell.tsx",
+    "componentName": "TimeEntryCell",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/timesheets/week-view-table/editable-cell.tsx",
+    "componentName": "ProjectNameCell",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/resource-management/manage-allocation/drawer.tsx",
+    "componentName": "UserDetail",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/resource-management/manage-allocation/drawer.tsx",
+    "componentName": "TimeOffHolidayAlert",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/timesheets/week-view-table/week-view-table.tsx",
+    "componentName": "DateColumnHeaderCell",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/timesheets/single-user-view-table/single-user-view-table.tsx",
+    "componentName": "DateColumnHeaderCell",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/timesheets/single-user-view-table/single-user-view-table.tsx",
+    "componentName": "ProjectNameCell",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/timesheets/single-user-view-table/single-user-view-table.tsx",
+    "componentName": "EntryDetailDrawer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/timesheets/approval-user-view/user-view.tsx",
+    "componentName": "HeaderSummaryDetails",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/timesheets/approval-user-view/user-view.tsx",
+    "componentName": "SingleUserViewTable",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/timesheets/approval-user-view/user-view.tsx",
+    "componentName": "SummaryRow",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/conversations/messages-list/control-message/control-message.tsx",
+    "componentName": "TaskUpdateFieldRow",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/module-settings/team-members/drawer-modal/drawer-modal.tsx",
+    "componentName": "TeamMemberDrawerHeader",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/module-settings/team-members/drawer-modal/drawer-modal.tsx",
+    "componentName": "TeamMemberDrawerFooter",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/conversations/messages-list/user-message/user-message.tsx",
+    "componentName": "AuthorTime",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/module-settings/team-members/list/table-components.tsx",
+    "componentName": "MoreActions",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/module-settings/team-members/drawer-modal/modal-header.tsx",
+    "componentName": "EditModeHeader",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/document-changed.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/dependent-task-changed.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/document-created.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/msg-related.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/partner-company-added-to-project.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/org-chart/components/ChildrenGrid.tsx",
+    "componentName": "OrgNode",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/org-chart/components/AncestorTree.tsx",
+    "componentName": "OrgNode",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/org-chart/components/AncestorTree.tsx",
+    "componentName": "OrgNode",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/pages/timesheet-reports/people-wise/page.tsx",
+    "componentName": "TimesheetUserWiseReportContent",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/project-archived.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/project-csat-added.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/task-name-or-description-changed.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/task-field-changed.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/task-form-response-added.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/task-private-note-changed.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/message.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/message.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/message.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/message.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/message.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/message.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/task-progress-changed.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portal/components/cp-invite-to-project-modal/cp-invite-to-project-modal.tsx",
+    "componentName": "Member",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portal/components/cp-invite-to-project-modal/cp-invite-to-project-modal.tsx",
+    "componentName": "ResendInvitationConfirmationModal",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/project-member-added.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/project-member-added.tsx",
+    "componentName": "UserView",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/project-member-removed.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/module-settings/partner/list/grid.tsx",
+    "componentName": "ReactivationBillingWrapper",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timeoff.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timeoff.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timeoff.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timeoff.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/project-phase-added.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/project-phase-removed.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/project-placeholder-resolve.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/user-list-with-avatar.tsx",
+    "componentName": "UserView",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/project-status-update-published.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/project-unarchived.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/task-assigned.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/task-at-risk-changed.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/task-attachment-changed.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/org-chart/components/OrgNode.tsx",
+    "componentName": "EditOrgNode",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/task-approval-request.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/user-added-to-project.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/task-assignee-changed.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/task-created.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/task-created.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/module-settings/partner/team-members/list.tsx",
+    "componentName": "ReactivationBillingWrapper",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/users-report/widgets/tables/collaboration.tsx",
+    "componentName": "NameCell",
+    "propName": "firstName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/users-report/widgets/tables/collaboration.tsx",
+    "componentName": "NameCell",
+    "propName": "lastName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/users-report/widgets/tables/billable-utlization.tsx",
+    "componentName": "NameCell",
+    "propName": "firstName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/users-report/widgets/tables/billable-utlization.tsx",
+    "componentName": "NameCell",
+    "propName": "lastName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/users-report/widgets/tables/task-on-time-completion.tsx",
+    "componentName": "NameCell",
+    "propName": "firstName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/users-report/widgets/tables/task-on-time-completion.tsx",
+    "componentName": "NameCell",
+    "propName": "lastName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/resource-management/scheduler-config/columns/columns-for-group-by-users.tsx",
+    "componentName": "UserCellForUsersView",
+    "propName": "firstName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/resource-management/scheduler-config/columns/columns-for-group-by-users.tsx",
+    "componentName": "UserCellForUsersView",
+    "propName": "lastName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/resource-management/scheduler-config/columns/columns-for-group-by-users.tsx",
+    "componentName": "ProjectCellForUsersView",
+    "propName": "fullName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/timesheets/all-users-view-table/all-user-view-cells/team-member.tsx",
+    "componentName": "UserNameCell",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/resource-management/scheduler-config/columns/columns-for-group-by-projects.tsx",
+    "componentName": "UserCellForProjectsView",
+    "propName": "firstName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/resource-management/scheduler-config/columns/columns-for-group-by-projects.tsx",
+    "componentName": "UserCellForProjectsView",
+    "propName": "lastName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/conversations/messages-list/user-message/author-time/author-time.test.tsx",
+    "componentName": "AuthorTime",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/timesheets/week-view-table/time-entry-cell/index.tsx",
+    "componentName": "AddTimeEntry",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portal/components/task-drawer/sections/cp-task-default-fields-section.tsx",
+    "componentName": "CreatedBy",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/field-changed/field-changed-message.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/timesheets/drawers/timesheet-entry-detail/timesheet-entry-detail.tsx",
+    "componentName": "Content",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/field-changed/render.tsx",
+    "componentName": "UserView",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/task/dependency-changed-message.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/project-conversation-events/project-conv-member-invited.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/project-conversation-events/project-conv-member-added.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/resource-request/requested-resource.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/resource-request/resource-request-message.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/resource-request/resource-request-message.tsx",
+    "componentName": "RequestedResource",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/resource-request/resource-request-set-assignee-view.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/resource-request/resource-request-set-assignee-view.tsx",
+    "componentName": "RequestedResource",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/resource-request/resource-request-status-changed-view.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/resource-request/resource-request-status-changed-view.tsx",
+    "componentName": "RequestedResource",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timesheet-events/timesheet-approved.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timesheet-events/timesheet-approved.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timesheet-events/timesheet-approved.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timesheet-events/timesheet-approved.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timesheet-events/timesheet-approved.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timesheet-events/timesheet-approved.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timesheet-events/timesheet-approved.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timesheet-events/timesheet-requested.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timesheet-events/timesheet-requested.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timesheet-events/timesheet-submitted.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/timesheet-events/timesheet-submitted.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/resource-request/resource-request-approved-view.tsx",
+    "componentName": "Causer",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/notifications/list/line-item/resource-request/resource-request-approved-view.tsx",
+    "componentName": "RequestedResource",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/projects/project-conversation/conversation-components/conversation-pane/comment-seen-by.tsx",
+    "componentName": "UserAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/molecules/tasks/details/csat/responses/responses.tsx",
+    "componentName": "ResponseListItem",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/task-pane/task-detail/task-fields/default-task-fields/default-task-fields.tsx",
+    "componentName": "CreatedBy",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portal/widgets/team-members/variants/cp-team-members-card.tsx",
+    "componentName": "UserTimeOffDetails",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/document/parts/doc-discussions/discussions-components/comment-head.tsx",
+    "componentName": "UserInfoAction",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/module-settings/team-members/list/more-actions-menu/more-actions-menu.tsx",
+    "componentName": "ReactivationBillingWrapper",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/templates/projects/resource-management/auto-allocation-source-tasks/drawer.tsx",
+    "componentName": "UserDetail",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/templates/projects/resource-management/scheduler-config/columns/config.tsx",
+    "componentName": "UserCell",
+    "propName": "firstName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/templates/projects/resource-management/scheduler-config/columns/config.tsx",
+    "componentName": "UserCell",
+    "propName": "lastName"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/projects/project-settings/team-members/team-table/columns/column-list.tsx",
+    "componentName": "Status",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/projects/project-settings/team-members/team-table/columns/column-list.tsx",
+    "componentName": "MoreActions",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/projects/project-settings/team-members/team-table/columns/more-actions.tsx",
+    "componentName": "ManageRoleModal",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/projects/project-settings/team-members/team-table/columns/more-actions.tsx",
+    "componentName": "ManagePermissionModal",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/company-field-updated.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/company-field-updated.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/member-invited-to-company.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/member-invited-to-company.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/project-field-changed.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/customer-company-created.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/member-invited-to-project.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/member-invited-to-project.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/note-added.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/message-sent-on-conversation.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/project-created.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/partner-added-to-project.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/project-update-published.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/task-field-changed.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/note-updated.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/user-field-updated.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  },
+  {
+    "fileName": "/Users/logesh/Desktop/work_repos/rocket-frontend/members-data-cleanup/src/components/organisms/customer-portfolio/detail/engagement/activities/activity/activity-content/user-field-updated.tsx",
+    "componentName": "UserNameWithAvatar",
+    "propName": "user"
+  }
+]
